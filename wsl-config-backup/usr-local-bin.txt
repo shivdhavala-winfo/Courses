@@ -1,0 +1,12 @@
+total 848M
+drwxr-xr-x  2 root root 4.0K Oct 14 05:01 .
+drwxr-xr-x 12 root root 4.0K Aug  6 05:00 ..
+-r-xr-xr-x  1 root root 239M Aug 19 11:05 argocd
+lrwxrwxrwx  1 root root   37 Aug  6 05:00 aws -> /usr/local/aws-cli/v2/current/bin/aws
+lrwxrwxrwx  1 root root   47 Aug  6 05:00 aws_completer -> /usr/local/aws-cli/v2/current/bin/aws_completer
+-rwxr-xr-x  1 root root  57M Aug 19 11:05 helm
+-rwxr-xr-x  1 shiv shiv 169M Aug 16 12:39 helmfile
+-rwxr-xr-x  1 shiv shiv 126M Jun  6 14:04 k9s
+-rwxr-xr-x  1 shiv shiv  57M Aug 19 11:04 kubectl
+-rwxr-xr-x  1 shiv shiv  63M Sep  7  2023 terraform
+-rwxr-xr-x  1 shiv shiv 139M Jun 26 06:53 velero

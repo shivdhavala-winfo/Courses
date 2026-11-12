@@ -1,0 +1,7 @@
+total 523M
+drwxr-xr-x 2 shiv shiv 4.0K Nov  9 05:36 .
+drwx------ 5 shiv shiv 4.0K Sep 19 17:31 ..
+-rwxr-xr-x 1 shiv shiv 214M Oct 22 06:01 agy
+-rwxr-xr-x 1 shiv shiv 214M Oct 22 03:41 agy.1792648909833650749.old
+lrwxrwxrwx 1 shiv shiv   47 Nov  9 05:36 claude -> /home/shiv/.local/share/claude/versions/2.1.319
+-rwxr-xr-x 1 shiv shiv  96M Oct  6 12:20 terraform

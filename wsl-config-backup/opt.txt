@@ -1,0 +1,5 @@
+total 16K
+drwxr-xr-x  4 root root 4.0K Sep 19 18:47 .
+drwxr-xr-x 36 root root 4.0K Nov 12 03:23 ..
+drwxr-xr-x  6 root root 4.0K Aug 27 11:29 az
+drwx--x--x  4 root root 4.0K Sep 19 18:47 containerd
